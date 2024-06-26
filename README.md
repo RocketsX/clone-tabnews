@@ -1,3 +1,3 @@
-# clone-tabnews
+# Corretor Expert
 
-Projeto para treinar programação.
+Projeto para construir um site profissional;
